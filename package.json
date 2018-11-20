@@ -1,0 +1,27 @@
+{
+  "name": "pv-notify-wrapper",
+  "version": "1.0.4",
+  "description": "Just a simple wrapper for Notifications API",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PagueVeloz/pv-notify.git"
+  },
+  "keywords": [
+    "pv-notify",
+    "notifications",
+    "push"
+  ],
+  "author": "PagueVeloz <contato@pagueveloz.com.br>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PagueVeloz/pv-notify/issues"
+  },
+  "homepage": "https://github.com/PagueVeloz/pv-notify#readme",
+  "devDependencies": {
+    "eslint": "^3.8.1"
+  }
+}

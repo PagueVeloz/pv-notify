@@ -1,0 +1,26 @@
+{
+  "name": "pv-notify",
+  "version": "1.0.4",
+  "homepage": "https://github.com/pagueveloz/pv-notify",
+  "authors": [
+    "PagueVeloz <contato@pagueveloz.com.br>"
+  ],
+  "description": "Just a simple wrapper for Notifications API",
+  "main": "index.js",
+  "keywords": [
+    "notification",
+    "notify",
+    "push",
+    "pv-notify",
+    "pagueveloz"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".vscode"
+  ]
+}
