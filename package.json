@@ -1,5 +1,5 @@
 {
-  "name": "pv-notify-wrapper",
+  "name": "pv-notify",
   "version": "1.0.4",
   "description": "Just a simple wrapper for Notifications API",
   "main": "index.js",

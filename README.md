@@ -1,10 +1,10 @@
-# Notify-wrapper
+# pv-notify
 Just a simple wrapper for Notifications API
 
 # Install
 
-* using bower `bower install notify-wrapper`
-* using npm `npm install notify-wrapper` 
+* using bower `bower install pv-notify`
+* using npm `npm install pv-notify` 
 
 # API
 
