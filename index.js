@@ -1,4 +1,6 @@
-/* global Promise: false */
+// eslint-disable-next-line no-undef
+var Promise = require("promise-polyfill").default;
+
 (function (global, navigator) {
     global.notify = {
         requestPermission: requestPermission(),

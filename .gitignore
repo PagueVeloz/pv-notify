@@ -59,3 +59,6 @@ jspm_packages
 
 # Output of 'npm pack'
 *.tgz
+
+# NPM
+package-lock.json
