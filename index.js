@@ -88,6 +88,9 @@
     }
 
     function notSupported() {
+        if(typeof Promise !== "function")
+            return;
+            
         return new Promise(function () {
             var t = new Error("Não suportado.");
             t.code = "NOT_SUPPORTED";
