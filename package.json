@@ -23,8 +23,5 @@
   "homepage": "https://github.com/PagueVeloz/pv-notify#readme",
   "devDependencies": {
     "eslint": "^3.8.1"
-  },
-  "dependencies": {
-    "promise-polyfill": "8.1.0"
   }
 }
